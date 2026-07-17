@@ -1,6 +1,8 @@
 # Gudavalli Sathya Tej
+
 **B.Math (Hons.) Student | Quantitative Researcher & Data Scientist**
-gudavallisathyatej@gmail.com | https://www.linkedin.com/in/sathyatej1290/ | https://github.com/sathya-tej | https://codeforces.com/profile/sathyatej_1290
+
+[Email](mailto:gudavallisathyatej@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathyatej1290/) | [GitHub](https://github.com/sathya-tej) | [Codeforces](https://codeforces.com/profile/sathyatej_1290)
 
 ---
 ## 1. Leadership & Academic Impact
